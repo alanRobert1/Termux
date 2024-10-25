@@ -9,7 +9,7 @@ pkg install apache2 php-apache wget
 # data-base
 pkg install mariadb php | python python2 python3
 # package for assistant
-pkg install curl fish grep htop/top neofetch unzip zip git
+pkg install curl grep htop neofetch unzip zip git
 
 # Proces Hosting
 pkg install php-apache mariadb wget zip
