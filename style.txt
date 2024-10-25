@@ -7,7 +7,7 @@ nano -l $PREFIX/files/usr/etc/bash.bashrc
 	yang di bawah ini dan ganti PS1.
 
 #### Prompt ####
-sym="Termux㉿" #symbol of prompt
+sym="㉿" #symbol of prompt
 bar_cr="34" #color of bars
 name_cr="37" #color of user & host
 end_cr="37" #color of prompt end
